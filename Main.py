@@ -6,7 +6,7 @@ import time
 import GraphHelpers as gh
 
 # Variables Needed to interact with the AlphaVantage Stock Data API
-API_KEY = "YEM6SLKLWMUGJQB6"
+API_KEY = "Your API Key Here"
 fd = FundamentalData(API_KEY, "pandas")
 sp = SectorPerformances(API_KEY, "pandas")
 

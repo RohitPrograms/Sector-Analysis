@@ -21,7 +21,7 @@ This program aims to find **overvalued** S&P 500 equities in **under-performing 
 
 ---
 
-## **Behind the Script**
+## **Determining Overvalued and Undervalued Equities**
 
 - **The P/E Ratio**
   - The metric that I use to valuate an equity is it's Price-to-Earnings ratio, commonly known as the P/E ratio. 

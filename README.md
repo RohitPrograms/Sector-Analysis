@@ -44,7 +44,7 @@ This program aims to find **overvalued** S&P 500 equities in **under-performing 
   - The **GetSectorPerformances()** method returns a dictionary where the keys are the names of the different sectors, and the associated value is their YTD growth expressed as a decimal. 
     - ![](result1.PNG)
   - The **CreateBarChart()** method takes in a dictionary, and displays a bar chart, where the X-axis is the sectors, and the Y-axis is the YTD Growth. 
-    - ![](sectorperformance.PNG)
+    - ![](SectorPerformance.png)
 <br/><br/>
 
 ![](codesnippet4.PNG)

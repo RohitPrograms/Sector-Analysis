@@ -62,8 +62,8 @@ This program aims to find **overvalued** S&P 500 equities in **under-performing 
     -  ![](result3.PNG) 
 - In addition, the **CreateBoxPlot()** method is called within this method. The CreateBoxPlot() method displays a Box-and-Whisker plot of each equities P/E Ratio within a certain sector. This is so that you can visually see if there a equities with unusual P/E Ratios.
     - Since the Energy Sector was determined to be an **over-performing** sector, we are looking for **undervalued** equities, meaning that we are looking for outliers on the **left** side. By looking at the box plot below, there seems no undervalued equities within this sector.
-    - ![](box1.PNG) 
+    - ![](box1.png) 
     - Since the Consumer Discretionary Sector was determined to be an **under-performing** sector, we are looking for **overvalued** equities, meaning that we are looking for outliers on the **right** side. By looking at the box plot below, there seems to be 6 overvalued equities within this sector.
-    - ![](box2.PNG) 
+    - ![](box2.png) 
     
 

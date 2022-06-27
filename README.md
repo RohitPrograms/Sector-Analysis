@@ -1,4 +1,4 @@
-# **Sector Analysis Project By Rohit Tripathy**
+# **Sector Analysis Project**
 
 
 ## **Overview of the Project**
